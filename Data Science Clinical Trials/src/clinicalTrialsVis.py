@@ -73,5 +73,5 @@ def display(df1):
 
 # run the methods
 if __name__ == '__main__':
-    df1 = preprocessing()
-    display(df1)
+    df = preprocessing()
+    display(df)
